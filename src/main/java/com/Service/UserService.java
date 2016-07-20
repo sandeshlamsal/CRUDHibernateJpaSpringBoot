@@ -1,7 +1,7 @@
 package com.Service;
 import com.Model.User;
  
-	public interface UserService {
+public interface UserService {
 
 		//Collection<Greeting> fineAll();
 		
